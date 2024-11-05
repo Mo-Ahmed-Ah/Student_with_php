@@ -22,6 +22,4 @@
       </ul>
     </ul>
   </li>
-  <li>Tea</li>
-  <li>Milk</li>
 </ul>

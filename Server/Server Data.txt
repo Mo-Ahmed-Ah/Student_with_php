@@ -1,0 +1,15 @@
+Server Data :
+    type : Exampp 
+    programming language : php
+    User name : root 
+    pass word : empty
+    database : student
+    have got : one table 
+    table name : student
+    table has got : 3 columns
+    columns names : ID & Name & Address
+    columns data type : int & varchar & varchar
+    primary key : ID column
+    ID column : Auto Increment 
+    
+
